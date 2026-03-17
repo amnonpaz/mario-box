@@ -37,7 +37,6 @@ class Sequence {
     const int _speakerPin = 9;
 };
 
-extern const Sequence g_testSeq;
 extern const Sequence g_marioSeq;
 
 }
