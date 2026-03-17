@@ -7,8 +7,8 @@ An Arduino Nano project that plays the Super Mario Bros melody when a button is 
 ![Circuit diagram](images/circuit.png)
 
 - **Arduino Nano**
-- **Speaker** on pin D9, driven through a 1 kΩ resistor
-- **Momentary switch** on pin D2, pulling to ground (uses internal pull-up)
+- **Speaker** on pin D9, driven through a BC337 transistor
+- **Micro switch** on pin D2, pulling to ground (uses internal pull-up)
 - **Power** from 3.3V
 
 ## How It Works
